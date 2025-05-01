@@ -6,7 +6,8 @@ The project is completed during the preparation of Pavel A.. Iliin work under Te
 # Authors and contributors 
 The advisor and contributor Vladimir A. Parkhomenko Seniour Lecturer of SPbPU ICSC. The main contributor Pavel A.. Iliin student of SPbPU ICSC.
 
-# Licence
-Warranty The contributors give no warranty for the using of the software.
+# Warranty
+The contributors give no warranty for the using of the software.
 
-License This program is open to use anywhere and is licensed under the GNU General Public License v3.0.
+# Licence
+This program is open to use anywhere and is licensed under the GNU General Public License v3.0.
